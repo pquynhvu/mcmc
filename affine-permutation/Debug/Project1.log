@@ -1,0 +1,8 @@
+﻿  function.cpp
+D:\dungvq\project1\function.cpp(306,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dungvq\project1\function.cpp(334,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  build.cpp
+  test.cpp
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\dungvq\project1\Debug\Clone.exe
